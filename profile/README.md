@@ -2,6 +2,12 @@
 
 ###
 
+<h3>Should you have access?</h3>
+<p> If you believe that you should have access, please contact your team manager who will be able to invite you to the organisation. 
+Further details for this Github Organisation can be found in Microsoft Loop.</p>
+
+###
+
 
 <!--
 
